@@ -1,0 +1,10 @@
+idItem,tipo,nome,descricao,categoria,preco,duracaoPadraoMin,stock,ativo
+1,produto,Francesinha Tradicional,Francesinha com molho da casa,Taberna,11.50,,30,true
+2,produto,Francesinha Especial,Francesinha com ovo e enchidos extra,Taberna,13.00,,25,true
+3,produto,Cachorro Especial,Cachorro com salsicha artesanal e queijo,Taberna,6.50,,40,true
+4,produto,Cachorro Picante,Cachorro com molho picante da casa,Taberna,7.00,,35,true
+5,produto,Batatas Fritas,Batatas fritas crocantes,Taberna,3.50,,50,true
+6,produto,Refrigerante Lata,Cola / Laranja / Limão,Bar,2.00,,100,true
+7,produto,Ice Tea,Ice Tea de pêssego ou limão,Bar,2.20,,80,true
+8,produto,Água Mineral,Água mineral 0.5L,Bar,1.50,,120,true
+
